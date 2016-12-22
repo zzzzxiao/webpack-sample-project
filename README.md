@@ -1,3 +1,3 @@
-# webpack-sample-progect
+# webpack-sample-project
 simple webpack project
 construct webpack project
