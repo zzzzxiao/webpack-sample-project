@@ -1,5 +1,5 @@
 {
-  "name": "optimization-of-jmstore-webpack",
+  "name": "webpack-sample-project",
   "version": "1.0.0",
   "description": "test webpack",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://fegit.jumeicd.com/zhangxiao/optimization-of-jmstore-webpack.git"
+    "url": "https://github.com/zzzzxiao/webpack-sample-project.gitt"
   },
   "keywords": [
     "webpack"
