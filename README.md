@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 入门webpack
 
 
