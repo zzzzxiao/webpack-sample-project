@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 入门webpack
 
 
@@ -264,3 +265,8 @@ plugins:[
 
 
 
+=======
+# webpack-sample-project
+simple webpack project
+construct webpack project
+>>>>>>> 7e3b599950fc64e4fc7eefed9d2e3077d936e733
